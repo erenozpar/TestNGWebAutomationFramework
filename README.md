@@ -1,4 +1,4 @@
-# TestNGWebAutomationFramework-
+# TestNGWebAutomationFramework
 
 **TestNG Web Automation Framework** is a robust, reusable, and scalable framework built for automating web applications using the **TestNG** testing framework. The project is designed to provide a structure that allows for easy maintenance and scalability in automated testing processes, especially for web-based applications.
 
