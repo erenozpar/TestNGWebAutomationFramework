@@ -27,9 +27,8 @@ Make sure you have the following installed:
 ## Setup Instructions:
 
 1. **Clone the Repository**:
-```bash
+bash
 git clone https://github.com/your-username/TestNGWebAutomationFramework.git
-
 2. **Navigate to the Project Directory**:
 cd TestNGWebAutomationFramework
 
